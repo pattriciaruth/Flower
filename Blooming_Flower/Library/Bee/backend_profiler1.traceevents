@@ -1,0 +1,521 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1744547029606718, "dur":2770, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029609496, "dur":185, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1744547029609693, "dur":19, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1744547029609714, "dur":422, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1744547029610160, "dur":407, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029610567, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029933878, "dur":340, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934218, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934227, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934230, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934239, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934240, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934249, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934251, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934259, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934261, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934267, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934269, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934277, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934278, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934284, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934285, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934293, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934295, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934301, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934303, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934311, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934312, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934318, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934320, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934328, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934329, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934337, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934339, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934345, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934347, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934354, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934356, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934362, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934377, "dur":14, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029934393, "dur":4850, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1744547029610997, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029610998, "dur":1877, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029612885, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1744547029612973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029615278, "dur":1940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1744547029617231, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1744547029617258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029617351, "dur":1649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1744547029619008, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029619055, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029619057, "dur":22908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029641983, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029642065, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029642070, "dur":3867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029645976, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029646084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029646089, "dur":3385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029649540, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029649622, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029649626, "dur":9496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029659157, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029659252, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029659258, "dur":91459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029752158, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029752316, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029752325, "dur":21561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029773919, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029773986, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029773991, "dur":12029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744547029786057, "dur":11946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1744547029798007, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744547029798015, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1744547029800668, "dur":133313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029610757, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029610759, "dur":2093, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029612900, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1744547029612910, "dur":864, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029613777, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1744547029613779, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029647378, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1744547029648513, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029648588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029648593, "dur":4986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029653615, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029653703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029653709, "dur":13362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029667110, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029667202, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029667211, "dur":73579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029740826, "dur":65302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029806132, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744547029806141, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744547029807367, "dur":126549, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744547029610889, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744547029610889, "dur":2028, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744547029612918, "dur":698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1744547029613620, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744547029646247, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1744547029648088, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744547029648166, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744547029648194, "dur":4342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744547029652571, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744547029652647, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744547029652653, "dur":41246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744547029693940, "dur":128461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744547029822405, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744547029822413, "dur":941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744547029823383, "dur":110523, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029610823, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029610824, "dur":2037, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029612865, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1744547029612977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029615176, "dur":2045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1744547029617230, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1744547029617254, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029617338, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1744547029618329, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029618354, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029618520, "dur":2296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029620827, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1744547029620847, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029620850, "dur":4928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1744547029625801, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower.exe" }}
+,{ "pid":12345, "tid":4, "ts":1744547029625854, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029625861, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower.exe" }}
+,{ "pid":12345, "tid":4, "ts":1744547029627290, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1744547029627328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029628373, "dur":6759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1744547029635146, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029635254, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029635258, "dur":4690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029639980, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029640062, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029640068, "dur":3273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029643372, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029643433, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029643437, "dur":3922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029647397, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029647478, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029647483, "dur":4532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029652055, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029652125, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029652130, "dur":102835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029755003, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029755143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029755151, "dur":14277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029769468, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029769577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029769585, "dur":5599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029775237, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029775354, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029775364, "dur":7565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029782993, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029783099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029783108, "dur":9770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744547029792926, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1744547029792996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029793004, "dur":2464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1744547029795503, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1744547029795539, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744547029795543, "dur":4011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1744547029799587, "dur":134290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029611008, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029611008, "dur":1884, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029612894, "dur":694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1744547029613592, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029637993, "dur":3547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1744547029641571, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029641666, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029641671, "dur":2954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029644651, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029644731, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029644737, "dur":3388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029648155, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029648229, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029648234, "dur":6451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029654727, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029654812, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029654817, "dur":53656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029708509, "dur":107711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029816226, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744547029816236, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744547029817345, "dur":116590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029611089, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029611089, "dur":1776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029612876, "dur":665, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1744547029613543, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029636251, "dur":3272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1744547029639541, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029639802, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029639808, "dur":2914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029642747, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029642929, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029642933, "dur":4334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029647320, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029647427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029647433, "dur":3934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029651408, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029651493, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029651499, "dur":30065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029681604, "dur":123896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029805543, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744547029805556, "dur":1446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744547029807031, "dur":126935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029611124, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029611124, "dur":1763, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029612887, "dur":937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1744547029613825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029659252, "dur":12840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1744547029672113, "dur":88679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744547029760800, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029760813, "dur":4538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744547029765390, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744547029765470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029765478, "dur":8019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744547029773551, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744547029773670, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029773679, "dur":9441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744547029783151, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1744547029783218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029783277, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1744547029784967, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1744547029785002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029785006, "dur":11951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1744547029796997, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1744547029797032, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744547029797037, "dur":3589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1744547029800663, "dur":133347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029611123, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029611123, "dur":1760, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029612903, "dur":521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1744547029613427, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029635834, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1744547029638477, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029638588, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029638597, "dur":3439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029642079, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029642175, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029642192, "dur":3727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029645974, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029646062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029646068, "dur":3549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029649652, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029649745, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029649751, "dur":14155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029663946, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029664143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029664395, "dur":52041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029716476, "dur":216261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029932743, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744547029932752, "dur":1042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744547029933818, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1744547029933819, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029610877, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029610878, "dur":1977, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029612864, "dur":490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1744547029613389, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029635481, "dur":3041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1744547029638536, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029638612, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029638619, "dur":3306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029641973, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029642058, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029642063, "dur":3099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029645222, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029645414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029645423, "dur":3533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029648987, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029649054, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029649059, "dur":10260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029659350, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029659408, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029659413, "dur":85770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029745229, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029745281, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029745290, "dur":18901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029764227, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029764341, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029764349, "dur":10796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029775262, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029775349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029775357, "dur":19892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744547029795293, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1744547029795336, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744547029795344, "dur":4743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1744547029800127, "dur":133747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029610926, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029610926, "dur":1944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029612873, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1744547029613338, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029634350, "dur":2171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1744547029636536, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029636613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029636619, "dur":4722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029641381, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029641505, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029641555, "dur":4317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029645910, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029646027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029646033, "dur":3093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029649169, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029649287, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029649292, "dur":5195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029654524, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029654598, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029654636, "dur":44002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029698676, "dur":88901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029787611, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029787622, "dur":8809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744547029796494, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1744547029796544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744547029796642, "dur":3771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1744547029800457, "dur":133415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029610959, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029610960, "dur":1949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029612909, "dur":774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1744547029613685, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029646713, "dur":1496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1744547029648223, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029648290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029648296, "dur":3816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029652147, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029652207, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029652213, "dur":41680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029693939, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029694101, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029694110, "dur":57370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029751569, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029751638, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029751648, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029755185, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029755256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029755261, "dur":14645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029769940, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029769979, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029769984, "dur":9103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029779190, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029779391, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029779399, "dur":5172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744547029785028, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1744547029785184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029785189, "dur":8358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1744547029793579, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1744547029793612, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029793618, "dur":3478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1744547029797137, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/boot.config" }}
+,{ "pid":12345, "tid":11, "ts":1744547029797319, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744547029797324, "dur":3560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/boot.config" }}
+,{ "pid":12345, "tid":11, "ts":1744547029800915, "dur":133032, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029610913, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029610914, "dur":1940, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029612864, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1744547029612977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029623288, "dur":5437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1744547029628740, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029628833, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029629664, "dur":3970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029633676, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029633789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029633795, "dur":2313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029636149, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029636252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029636259, "dur":5149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029641480, "dur":209060, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029850545, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744547029850554, "dur":1673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744547029852299, "dur":81594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029610985, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029610985, "dur":1868, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029612864, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1744547029612984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029627176, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1744547029629771, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029629884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029629892, "dur":4772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029634706, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029634790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029634796, "dur":3667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029638516, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029638624, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029638631, "dur":3782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029642446, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029642507, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029642557, "dur":3774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029646370, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029646445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029646451, "dur":3795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029650280, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029650363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029650368, "dur":8997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029659409, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029659878, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029659884, "dur":81646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029741936, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029741984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029741993, "dur":19875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029761904, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029761999, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029762007, "dur":7500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029769535, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029769610, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029769614, "dur":5774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029775517, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029775699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029775705, "dur":7267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029783008, "dur":1795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029784807, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029784817, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744547029786603, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1744547029786638, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029786650, "dur":9010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1744547029795715, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1744547029795758, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744547029795762, "dur":3999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1744547029799793, "dur":134082, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029611107, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029611107, "dur":1778, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029612885, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1744547029612973, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029615110, "dur":2104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1744547029617228, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1744547029617256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029617547, "dur":1401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1744547029618957, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029618981, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029619013, "dur":9673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029628707, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029628809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029629668, "dur":3916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029633613, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029633702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029633708, "dur":1186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029634931, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029635014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029635020, "dur":4808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029639867, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029639953, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029639957, "dur":3144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029643132, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029643191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029643196, "dur":4209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029647453, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029647545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029647553, "dur":3927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029651531, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029651774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029651787, "dur":42717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029694544, "dur":183474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029878045, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744547029878055, "dur":1023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744547029879101, "dur":54779, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029611027, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029611028, "dur":1861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029612889, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1744547029612983, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029623737, "dur":4203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1744547029627953, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029628072, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029628539, "dur":2684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029631254, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029631327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029631334, "dur":3405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029634769, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029634857, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029634861, "dur":3584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029638513, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029638656, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029638661, "dur":3231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029641940, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029642031, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029642036, "dur":3488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029645568, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029645666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029645673, "dur":3255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029648983, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029649065, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029649070, "dur":4919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029654022, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029654096, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029654101, "dur":62300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029716440, "dur":49373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029765816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029765822, "dur":1152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029767009, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029767089, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029767095, "dur":6868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029773993, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029774045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029774049, "dur":9839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744547029783926, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":15, "ts":1744547029783965, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029783970, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":15, "ts":1744547029784908, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1744547029784946, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744547029784959, "dur":14425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1744547029799425, "dur":134454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029611057, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029611057, "dur":1846, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029612904, "dur":696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1744547029613602, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029636978, "dur":2550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1744547029639541, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029639657, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029639663, "dur":2891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029642595, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029642667, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029642672, "dur":3946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029646669, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029646747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029646753, "dur":3480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029650272, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029650368, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029650373, "dur":37569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029687996, "dur":137158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029825160, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744547029825170, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/ux/Assessment3/Assessment-3/BloomingBuild_pc2/Blooming_Flower_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744547029826517, "dur":107480, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744547029942252, "dur":1248, "ph":"X", "name": "ProfilerWriteOutput" }
+,
